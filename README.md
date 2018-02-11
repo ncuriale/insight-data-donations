@@ -4,11 +4,11 @@ This is my submission for the Insight Data Engineering Coding Challenge. Thank y
 
 The software enclosed was programmed using Python. It requires the following dependencies to be installed. These 5 packages should be found by doing a pip or conda install:
 
-numpy
-os
-datetime
-dateutil
-pybloom_live
+1) numpy
+2) os
+3) datetime
+4) dateutil
+5) pybloom_live
 
 This code should be able to be run from the run.sh script. Please do not hesitate to contact me with any questions.
 
