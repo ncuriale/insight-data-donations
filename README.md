@@ -1,3 +1,19 @@
+Hello,
+
+This is my submission for the Insight Data Engineering Coding Challenge. Thank you and hopefully you like what I have provided for you.
+
+The software enclosed was programmed using Python. It requires the following dependencies to be installed. These 5 packages should be found by doing a pip or conda install:
+
+numpy
+os
+datetime
+dateutil
+pybloom_live
+
+This code should be able to be run from the run.sh script. Please do not hesitate to contact me with any questions.
+
+Thank you. Nathan Curiale
+
 # Table of Contents
 1. [Introduction](README.md#introduction)
 2. [Challenge summary](README.md#challenge-summary)
