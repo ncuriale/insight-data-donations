@@ -104,9 +104,9 @@ def dateCompare(date1,date2):
     if(dateTime1>dateTime2):
         if( (dateTime1+relativedelta(years=-1))>=dateTime2 ):
             out=True            
-    elif(dateTime2>dateTime1):
-        if( (dateTime2+relativedelta(years=-1))>=dateTime1 ):
-            out=True
+    #elif(dateTime2>dateTime1):
+    #    if( (dateTime2+relativedelta(years=-1))>=dateTime1 ):
+    #        out=True
 
     return out
          
